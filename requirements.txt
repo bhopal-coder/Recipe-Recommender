@@ -2,6 +2,4 @@ streamlit
 streamlit_lottie
 json
 pandas
-sklearn.feature_extraction.text
-sklearn.neighbors
-re
+scikit-learn
