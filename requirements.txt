@@ -1,5 +1,4 @@
 streamlit
 streamlit_lottie
-json
 pandas
 scikit-learn
